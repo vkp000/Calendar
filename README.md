@@ -1,16 +1,98 @@
-# React + Vite
+# Calendar
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple calendar application built with React + Vite.
 
-Currently, two official plugins are available:
+## 🚀 Getting Started
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+These instructions will get you a copy of the project up and running on your local machine for development and testing.
 
-## React Compiler
+### Prerequisites
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Node.js (v14+ recommended)
+- npm or yarn
+- Basic familiarity with React and Vite
 
-## Expanding the ESLint configuration
+### Installation
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. Clone the repository
+   ```bash
+   git clone https://github.com/vkp000/Calendar.git
+   cd Calendar
+   ```
+
+2. Install dependencies
+   ```bash
+   npm install
+   # or
+   yarn install
+   ```
+
+3. Start the development server
+   ```bash
+   npm run dev
+   # or
+   yarn dev
+   ```
+
+Your app should now be running at `http://localhost:5173/` (default for Vite) and you should see the calendar UI.
+
+## 🧰 Project Structure
+
+```
+/
+├── public/
+│   └── … static assets
+├── src/
+│   ├── App.jsx
+│   ├── components/
+│   ├── styles/
+│   └── … other code
+├── index.html
+├── package.json
+└── vite.config.js
+```
+
+- `src/` — main source code (React components, styles, etc.)
+- `public/` — static assets served by Vite
+- `package.json` — dependencies & scripts
+- `vite.config.js` — Vite configuration
+- `.gitignore`, `eslint.config.js`, etc. — standard tools & configs
+
+## ✅ Features
+
+- React + Vite setup with HMR (Hot Module Replacement)
+- ESLint configured for basic linting rules
+- Simple calendar interface (select month/year, view days)
+
+## 🎯 Usage
+
+- Browse through months and years
+- Select a date (or multiple dates)
+- Customize styling or behaviour as needed
+- Build for production:
+  ```bash
+  npm run build
+  # or
+  yarn build
+  ```
+
+## 🛠️ Customisation
+
+- Modify styles in `src/styles/` or your chosen styling folder
+- Add or configure new components in `src/components/`
+- Update Vite config or ESLint rules in `vite.config.js` / `eslint.config.js` if required
+
+## 📄 License
+
+This project is licensed under the MIT License. See `LICENSE` for details.
+
+## 🙋 Contribution
+
+Feel free to contribute!
+1. Fork the project
+2. Create your feature branch (`git checkout -b feature/YourFeature`)
+3. Commit your changes (`git commit -m 'Add some feature'`)
+4. Push to the branch (`git push origin feature/YourFeature`)
+5. Open a Pull Request
+
+Thanks for checking out Calendar 🎉
