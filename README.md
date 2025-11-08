@@ -2,7 +2,8 @@
 
 A **modern and minimal calendar application** built using **React + Vite** ⚡ — clean design, smooth navigation, and a customizable monthly view.
 
-![Calendar Preview](https://drive.google.com/file/d/1LoBdLa_qZOEBOb3e5RZDWYsaiBkAoAxT/view?usp=sharing)
+![Calendar Preview](https://drive.google.com/uc?export=view&id=1LoBdLa_qZOEBOb3e5RZDWYsaiBkAoAxT)
+
 
 ---
 
