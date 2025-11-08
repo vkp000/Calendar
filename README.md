@@ -1,98 +1,148 @@
-# Calendar
+# 📅 Calendar App
 
-A simple calendar application built with React + Vite.
+A **modern and minimal calendar application** built using **React + Vite** ⚡ — clean design, smooth navigation, and a customizable monthly view.
+
+![Calendar Preview](./public/preview.png)
+
+---
+
+## 🪄 Features
+
+✨ **Highlights:**
+- 📆 Dynamic month and date rendering  
+- 🎯 Highlight today’s date  
+- ⚡ Built with React + Vite for blazing-fast performance  
+- 🧠 Easy-to-understand, modular components  
+- 🌈 Beautiful gradient styling for weekends  
+- 💡 Extendable for event management and scheduling
+
+---
 
 ## 🚀 Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing.
+Follow these steps to set up the project locally 👇
 
-### Prerequisites
+### 🧩 Prerequisites
 
-- Node.js (v14+ recommended)
-- npm or yarn
-- Basic familiarity with React and Vite
+Make sure you have installed:
 
-### Installation
+- [Node.js](https://nodejs.org/) (v16 or above)
+- npm or yarn package manager
 
-1. Clone the repository
+---
+
+### ⚙️ Installation
+
+1. **Clone the repository**
    ```bash
    git clone https://github.com/vkp000/Calendar.git
    cd Calendar
    ```
 
-2. Install dependencies
+2. **Install dependencies**
    ```bash
    npm install
    # or
    yarn install
    ```
 
-3. Start the development server
+3. **Run the app**
    ```bash
    npm run dev
    # or
    yarn dev
    ```
 
-Your app should now be running at `http://localhost:5173/` (default for Vite) and you should see the calendar UI.
+Now visit 👉 **[http://localhost:5173](http://localhost:5173)**
 
-## 🧰 Project Structure
+---
+
+## 🧱 Project Structure
 
 ```
-/
+Calendar/
 ├── public/
-│   └── … static assets
+│   └── preview.png
 ├── src/
-│   ├── App.jsx
 │   ├── components/
+│   │   ├── HeaderBar.jsx
+│   │   └── MonthCalendar.jsx
+│   ├── data/
+│   │   └── events.json
 │   ├── styles/
-│   └── … other code
-├── index.html
+│   └── App.jsx
 ├── package.json
-└── vite.config.js
+├── vite.config.js
+└── README.md
 ```
 
-- `src/` — main source code (React components, styles, etc.)
-- `public/` — static assets served by Vite
-- `package.json` — dependencies & scripts
-- `vite.config.js` — Vite configuration
-- `.gitignore`, `eslint.config.js`, etc. — standard tools & configs
+---
 
-## ✅ Features
+## 🧠 Tech Stack
 
-- React + Vite setup with HMR (Hot Module Replacement)
-- ESLint configured for basic linting rules
-- Simple calendar interface (select month/year, view days)
+| Technology | Description |
+|-------------|--------------|
+| ⚛️ React | UI Library |
+| ⚡ Vite | Build Tool |
+| 📅 Day.js | Lightweight Date Utility |
+| 🎨 CSS / Tailwind | Styling |
+| 🧰 ESLint | Linting & Code Quality |
 
-## 🎯 Usage
+---
 
-- Browse through months and years
-- Select a date (or multiple dates)
-- Customize styling or behaviour as needed
-- Build for production:
-  ```bash
-  npm run build
-  # or
-  yarn build
-  ```
+## 🖼️ Screenshots
 
-## 🛠️ Customisation
+| Home View | Month View | Conflict Panel |
+|------------|-------------|----------------|
+| ![Home](./public/ss1.png) | ![Month](./public/ss2.png) | ![Conflicts](./public/ss3.png) |
 
-- Modify styles in `src/styles/` or your chosen styling folder
-- Add or configure new components in `src/components/`
-- Update Vite config or ESLint rules in `vite.config.js` / `eslint.config.js` if required
+> _You can replace these images with your own app screenshots._
 
-## 📄 License
+---
 
-This project is licensed under the MIT License. See `LICENSE` for details.
+## 🧩 Customization
 
-## 🙋 Contribution
+Want to tweak the calendar?  
+You can easily modify:
 
-Feel free to contribute!
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/YourFeature`)
-3. Commit your changes (`git commit -m 'Add some feature'`)
-4. Push to the branch (`git push origin feature/YourFeature`)
-5. Open a Pull Request
+- **Theme colors** → `src/styles/`  
+- **Event logic** → `src/data/events.json`  
+- **Header / Month logic** → `src/components/`
 
-Thanks for checking out Calendar 🎉
+---
+
+## 🧑‍💻 Contribution
+
+Contributions are always welcome! 💙
+
+1. Fork the repository  
+2. Create a new branch  
+   ```bash
+   git checkout -b feature/YourFeature
+   ```
+3. Commit your changes  
+   ```bash
+   git commit -m "Added new feature"
+   ```
+4. Push and open a Pull Request  
+
+---
+
+## 🪪 License
+
+This project is licensed under the **MIT License** — see the [LICENSE](./LICENSE) file for details.
+
+---
+
+## 💬 Connect
+
+👤 **Vivek Prajapat**  
+📸 [Instagram](https://instagram.com/vkp000)  
+💼 [LinkedIn](https://www.linkedin.com/in/vkp000)  
+🌐 [Portfolio Website](#)
+
+---
+
+### ⭐ Don’t forget to give a star if you like it!
+
+> _“Organize your time beautifully — one day at a time.”_
