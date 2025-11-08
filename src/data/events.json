@@ -1,0 +1,1773 @@
+[
+  {
+    "id": 1,
+    "title": "Project Update",
+    "date": "2024-05-05",
+    "time": "11:00",
+    "durationMinutes": 45
+  },
+  {
+    "id": 2,
+    "title": "UI Brainstorm",
+    "date": "2024-05-05",
+    "time": "11:15",
+    "durationMinutes": 45
+  },
+  {
+    "id": 3,
+    "title": "Training Workshop",
+    "date": "2024-05-27",
+    "time": "16:30",
+    "durationMinutes": 30
+  },
+  {
+    "id": 4,
+    "title": "Bug Bash",
+    "date": "2024-05-24",
+    "time": "09:15",
+    "durationMinutes": 30
+  },
+  {
+    "id": 5,
+    "title": "Design Review",
+    "date": "2024-05-15",
+    "time": "10:00",
+    "durationMinutes": 30
+  },
+  {
+    "id": 6,
+    "title": "Feedback Session",
+    "date": "2024-05-09",
+    "time": "11:30",
+    "durationMinutes": 30
+  },
+  {
+    "id": 7,
+    "title": "UX Review",
+    "date": "2024-05-08",
+    "time": "13:45",
+    "durationMinutes": 90
+  },
+  {
+    "id": 8,
+    "title": "User Study",
+    "date": "2024-06-06",
+    "time": "12:00",
+    "durationMinutes": 60
+  },
+  {
+    "id": 9,
+    "title": "Team Outing",
+    "date": "2024-06-06",
+    "time": "12:15",
+    "durationMinutes": 60
+  },
+  {
+    "id": 10,
+    "title": "Design Review",
+    "date": "2024-06-01",
+    "time": "15:45",
+    "durationMinutes": 60
+  },
+  {
+    "id": 11,
+    "title": "Team Retrospective",
+    "date": "2024-06-22",
+    "time": "16:45",
+    "durationMinutes": 90
+  },
+  {
+    "id": 12,
+    "title": "Growth Sync",
+    "date": "2024-06-14",
+    "time": "11:00",
+    "durationMinutes": 30
+  },
+  {
+    "id": 13,
+    "title": "UI Brainstorm",
+    "date": "2024-06-17",
+    "time": "14:45",
+    "durationMinutes": 60
+  },
+  {
+    "id": 14,
+    "title": "Workshop",
+    "date": "2024-07-23",
+    "time": "10:00",
+    "durationMinutes": 90
+  },
+  {
+    "id": 15,
+    "title": "Sprint Planning",
+    "date": "2024-07-23",
+    "time": "10:15",
+    "durationMinutes": 90
+  },
+  {
+    "id": 16,
+    "title": "Innovation Meetup",
+    "date": "2024-07-20",
+    "time": "14:15",
+    "durationMinutes": 45
+  },
+  {
+    "id": 17,
+    "title": "Quarter Start",
+    "date": "2024-07-11",
+    "time": "11:15",
+    "durationMinutes": 45
+  },
+  {
+    "id": 18,
+    "title": "Growth Sync",
+    "date": "2024-07-14",
+    "time": "09:30",
+    "durationMinutes": 60
+  },
+  {
+    "id": 19,
+    "title": "Internal Training",
+    "date": "2024-07-15",
+    "time": "11:45",
+    "durationMinutes": 60
+  },
+  {
+    "id": 20,
+    "title": "Hackathon",
+    "date": "2024-07-01",
+    "time": "10:30",
+    "durationMinutes": 60
+  },
+  {
+    "id": 21,
+    "title": "Internal Training",
+    "date": "2024-07-03",
+    "time": "12:00",
+    "durationMinutes": 60
+  },
+  {
+    "id": 22,
+    "title": "UX Review",
+    "date": "2024-08-06",
+    "time": "14:00",
+    "durationMinutes": 60
+  },
+  {
+    "id": 23,
+    "title": "Testing Session",
+    "date": "2024-08-06",
+    "time": "14:15",
+    "durationMinutes": 60
+  },
+  {
+    "id": 24,
+    "title": "Research Review",
+    "date": "2024-08-26",
+    "time": "14:15",
+    "durationMinutes": 60
+  },
+  {
+    "id": 25,
+    "title": "Sales Pitch",
+    "date": "2024-08-10",
+    "time": "10:15",
+    "durationMinutes": 45
+  },
+  {
+    "id": 26,
+    "title": "Product Demo",
+    "date": "2024-08-02",
+    "time": "10:30",
+    "durationMinutes": 30
+  },
+  {
+    "id": 27,
+    "title": "Bug Bash",
+    "date": "2024-08-03",
+    "time": "15:00",
+    "durationMinutes": 60
+  },
+  {
+    "id": 28,
+    "title": "Release Wrap-Up",
+    "date": "2024-08-05",
+    "time": "11:30",
+    "durationMinutes": 30
+  },
+  {
+    "id": 29,
+    "title": "All Hands Meeting",
+    "date": "2024-08-24",
+    "time": "14:45",
+    "durationMinutes": 60
+  },
+  {
+    "id": 30,
+    "title": "Hiring Discussion",
+    "date": "2024-09-18",
+    "time": "12:00",
+    "durationMinutes": 45
+  },
+  {
+    "id": 31,
+    "title": "Budget Planning",
+    "date": "2024-09-18",
+    "time": "12:15",
+    "durationMinutes": 45
+  },
+  {
+    "id": 32,
+    "title": "Client Call",
+    "date": "2024-09-01",
+    "time": "16:45",
+    "durationMinutes": 60
+  },
+  {
+    "id": 33,
+    "title": "Release Wrap-Up",
+    "date": "2024-09-15",
+    "time": "15:45",
+    "durationMinutes": 60
+  },
+  {
+    "id": 34,
+    "title": "UX Review",
+    "date": "2024-09-24",
+    "time": "14:30",
+    "durationMinutes": 90
+  },
+  {
+    "id": 35,
+    "title": "Release Wrap-Up",
+    "date": "2024-09-04",
+    "time": "10:45",
+    "durationMinutes": 45
+  },
+  {
+    "id": 36,
+    "title": "Team Celebration",
+    "date": "2024-09-22",
+    "time": "15:30",
+    "durationMinutes": 90
+  },
+  {
+    "id": 37,
+    "title": "Team Outing",
+    "date": "2024-09-23",
+    "time": "12:45",
+    "durationMinutes": 30
+  },
+  {
+    "id": 38,
+    "title": "System Design",
+    "date": "2024-10-20",
+    "time": "09:00",
+    "durationMinutes": 45
+  },
+  {
+    "id": 39,
+    "title": "Bug Bash",
+    "date": "2024-10-20",
+    "time": "09:15",
+    "durationMinutes": 45
+  },
+  {
+    "id": 40,
+    "title": "Sprint Planning",
+    "date": "2024-10-05",
+    "time": "16:30",
+    "durationMinutes": 30
+  },
+  {
+    "id": 41,
+    "title": "Data Analysis",
+    "date": "2024-10-12",
+    "time": "11:00",
+    "durationMinutes": 90
+  },
+  {
+    "id": 42,
+    "title": "Product Demo",
+    "date": "2024-10-13",
+    "time": "11:00",
+    "durationMinutes": 45
+  },
+  {
+    "id": 43,
+    "title": "UI Brainstorm",
+    "date": "2024-10-14",
+    "time": "14:00",
+    "durationMinutes": 30
+  },
+  {
+    "id": 44,
+    "title": "Performance Review",
+    "date": "2024-11-20",
+    "time": "09:00",
+    "durationMinutes": 30
+  },
+  {
+    "id": 45,
+    "title": "All Hands Meeting",
+    "date": "2024-11-20",
+    "time": "09:15",
+    "durationMinutes": 30
+  },
+  {
+    "id": 46,
+    "title": "Bug Bash",
+    "date": "2024-11-22",
+    "time": "12:30",
+    "durationMinutes": 45
+  },
+  {
+    "id": 47,
+    "title": "Innovation Meetup",
+    "date": "2024-11-13",
+    "time": "15:15",
+    "durationMinutes": 60
+  },
+  {
+    "id": 48,
+    "title": "Innovation Meetup",
+    "date": "2024-11-04",
+    "time": "15:15",
+    "durationMinutes": 30
+  },
+  {
+    "id": 49,
+    "title": "Quarterly Review",
+    "date": "2024-11-10",
+    "time": "10:15",
+    "durationMinutes": 45
+  },
+  {
+    "id": 50,
+    "title": "One-on-One",
+    "date": "2024-12-18",
+    "time": "13:00",
+    "durationMinutes": 90
+  },
+  {
+    "id": 51,
+    "title": "User Study",
+    "date": "2024-12-18",
+    "time": "13:15",
+    "durationMinutes": 90
+  },
+  {
+    "id": 52,
+    "title": "Feature Launch",
+    "date": "2024-12-13",
+    "time": "14:45",
+    "durationMinutes": 30
+  },
+  {
+    "id": 53,
+    "title": "Feature Launch",
+    "date": "2024-12-19",
+    "time": "10:45",
+    "durationMinutes": 90
+  },
+  {
+    "id": 54,
+    "title": "UI Brainstorm",
+    "date": "2024-12-26",
+    "time": "10:45",
+    "durationMinutes": 30
+  },
+  {
+    "id": 55,
+    "title": "Kickoff Meeting",
+    "date": "2024-12-15",
+    "time": "14:30",
+    "durationMinutes": 60
+  },
+  {
+    "id": 56,
+    "title": "Innovation Meetup",
+    "date": "2024-12-09",
+    "time": "13:45",
+    "durationMinutes": 45
+  },
+  {
+    "id": 57,
+    "title": "Client Call",
+    "date": "2025-01-24",
+    "time": "11:00",
+    "durationMinutes": 90
+  },
+  {
+    "id": 58,
+    "title": "Research Review",
+    "date": "2025-01-24",
+    "time": "11:15",
+    "durationMinutes": 90
+  },
+  {
+    "id": 59,
+    "title": "Innovation Meetup",
+    "date": "2025-01-16",
+    "time": "16:15",
+    "durationMinutes": 30
+  },
+  {
+    "id": 60,
+    "title": "User Study",
+    "date": "2025-01-21",
+    "time": "14:45",
+    "durationMinutes": 60
+  },
+  {
+    "id": 61,
+    "title": "Testing Session",
+    "date": "2025-01-06",
+    "time": "12:00",
+    "durationMinutes": 30
+  },
+  {
+    "id": 62,
+    "title": "Partner Call",
+    "date": "2025-01-17",
+    "time": "11:30",
+    "durationMinutes": 60
+  },
+  {
+    "id": 63,
+    "title": "Design Review",
+    "date": "2025-01-23",
+    "time": "16:15",
+    "durationMinutes": 30
+  },
+  {
+    "id": 64,
+    "title": "Product Roadmap",
+    "date": "2025-02-22",
+    "time": "09:00",
+    "durationMinutes": 45
+  },
+  {
+    "id": 65,
+    "title": "Quarter Start",
+    "date": "2025-02-22",
+    "time": "09:15",
+    "durationMinutes": 45
+  },
+  {
+    "id": 66,
+    "title": "Sprint Planning",
+    "date": "2025-02-03",
+    "time": "10:00",
+    "durationMinutes": 30
+  },
+  {
+    "id": 67,
+    "title": "Budget Planning",
+    "date": "2025-02-21",
+    "time": "10:00",
+    "durationMinutes": 30
+  },
+  {
+    "id": 68,
+    "title": "Marketing Update",
+    "date": "2025-02-01",
+    "time": "12:15",
+    "durationMinutes": 30
+  },
+  {
+    "id": 69,
+    "title": "Team Retrospective",
+    "date": "2025-02-14",
+    "time": "12:30",
+    "durationMinutes": 30
+  },
+  {
+    "id": 70,
+    "title": "Project Update",
+    "date": "2025-03-24",
+    "time": "10:00",
+    "durationMinutes": 30
+  },
+  {
+    "id": 71,
+    "title": "Marketing Sync",
+    "date": "2025-03-24",
+    "time": "10:15",
+    "durationMinutes": 30
+  },
+  {
+    "id": 72,
+    "title": "Feedback Session",
+    "date": "2025-03-07",
+    "time": "12:30",
+    "durationMinutes": 60
+  },
+  {
+    "id": 73,
+    "title": "Release Planning",
+    "date": "2025-03-06",
+    "time": "14:30",
+    "durationMinutes": 30
+  },
+  {
+    "id": 74,
+    "title": "Marketing Update",
+    "date": "2025-03-14",
+    "time": "11:30",
+    "durationMinutes": 60
+  },
+  {
+    "id": 75,
+    "title": "Team Lunch",
+    "date": "2025-03-02",
+    "time": "10:30",
+    "durationMinutes": 45
+  },
+  {
+    "id": 76,
+    "title": "Townhall",
+    "date": "2025-04-05",
+    "time": "10:00",
+    "durationMinutes": 45
+  },
+  {
+    "id": 77,
+    "title": "UI Brainstorm",
+    "date": "2025-04-05",
+    "time": "10:15",
+    "durationMinutes": 45
+  },
+  {
+    "id": 78,
+    "title": "Release Planning",
+    "date": "2025-04-04",
+    "time": "11:00",
+    "durationMinutes": 60
+  },
+  {
+    "id": 79,
+    "title": "UI Brainstorm",
+    "date": "2025-04-08",
+    "time": "15:30",
+    "durationMinutes": 60
+  },
+  {
+    "id": 80,
+    "title": "Testing Session",
+    "date": "2025-04-06",
+    "time": "15:30",
+    "durationMinutes": 45
+  },
+  {
+    "id": 81,
+    "title": "All Hands Meeting",
+    "date": "2025-04-26",
+    "time": "12:15",
+    "durationMinutes": 60
+  },
+  {
+    "id": 82,
+    "title": "Data Analysis",
+    "date": "2025-04-15",
+    "time": "15:00",
+    "durationMinutes": 30
+  },
+  {
+    "id": 83,
+    "title": "Brainstorm",
+    "date": "2025-05-09",
+    "time": "13:00",
+    "durationMinutes": 30
+  },
+  {
+    "id": 84,
+    "title": "Quarter Start",
+    "date": "2025-05-09",
+    "time": "13:15",
+    "durationMinutes": 30
+  },
+  {
+    "id": 85,
+    "title": "Training Workshop",
+    "date": "2025-05-17",
+    "time": "16:30",
+    "durationMinutes": 60
+  },
+  {
+    "id": 86,
+    "title": "Feature Launch",
+    "date": "2025-05-08",
+    "time": "13:45",
+    "durationMinutes": 45
+  },
+  {
+    "id": 87,
+    "title": "Release Wrap-Up",
+    "date": "2025-05-14",
+    "time": "09:30",
+    "durationMinutes": 60
+  },
+  {
+    "id": 88,
+    "title": "Innovation Meetup",
+    "date": "2025-05-24",
+    "time": "15:30",
+    "durationMinutes": 30
+  },
+  {
+    "id": 89,
+    "title": "Quarterly Review",
+    "date": "2025-05-11",
+    "time": "13:30",
+    "durationMinutes": 45
+  },
+  {
+    "id": 90,
+    "title": "Customer Sync",
+    "date": "2025-05-23",
+    "time": "16:15",
+    "durationMinutes": 90
+  },
+  {
+    "id": 91,
+    "title": "Client Call",
+    "date": "2025-06-13",
+    "time": "11:00",
+    "durationMinutes": 60
+  },
+  {
+    "id": 92,
+    "title": "Workshop",
+    "date": "2025-06-13",
+    "time": "11:15",
+    "durationMinutes": 60
+  },
+  {
+    "id": 93,
+    "title": "Quarterly Review",
+    "date": "2025-06-16",
+    "time": "14:15",
+    "durationMinutes": 45
+  },
+  {
+    "id": 94,
+    "title": "Design Sprint",
+    "date": "2025-06-20",
+    "time": "11:30",
+    "durationMinutes": 60
+  },
+  {
+    "id": 95,
+    "title": "Client Call",
+    "date": "2025-06-02",
+    "time": "13:30",
+    "durationMinutes": 30
+  },
+  {
+    "id": 96,
+    "title": "Design Sprint",
+    "date": "2025-06-22",
+    "time": "15:45",
+    "durationMinutes": 60
+  },
+  {
+    "id": 97,
+    "title": "Feature Launch",
+    "date": "2025-06-11",
+    "time": "10:00",
+    "durationMinutes": 30
+  },
+  {
+    "id": 98,
+    "title": "UX Review",
+    "date": "2025-07-10",
+    "time": "12:00",
+    "durationMinutes": 90
+  },
+  {
+    "id": 99,
+    "title": "Training Workshop",
+    "date": "2025-07-10",
+    "time": "12:15",
+    "durationMinutes": 90
+  },
+  {
+    "id": 100,
+    "title": "Feature Launch",
+    "date": "2025-07-03",
+    "time": "13:00",
+    "durationMinutes": 60
+  },
+  {
+    "id": 101,
+    "title": "Strategy Session",
+    "date": "2025-07-13",
+    "time": "13:00",
+    "durationMinutes": 30
+  },
+  {
+    "id": 102,
+    "title": "Budget Planning",
+    "date": "2025-07-26",
+    "time": "15:15",
+    "durationMinutes": 90
+  },
+  {
+    "id": 103,
+    "title": "Quarter Start",
+    "date": "2025-07-08",
+    "time": "15:30",
+    "durationMinutes": 60
+  },
+  {
+    "id": 104,
+    "title": "Townhall",
+    "date": "2025-08-22",
+    "time": "11:00",
+    "durationMinutes": 90
+  },
+  {
+    "id": 105,
+    "title": "Demo Day",
+    "date": "2025-08-22",
+    "time": "11:15",
+    "durationMinutes": 90
+  },
+  {
+    "id": 106,
+    "title": "Customer Review",
+    "date": "2025-08-08",
+    "time": "15:30",
+    "durationMinutes": 60
+  },
+  {
+    "id": 107,
+    "title": "Customer Review",
+    "date": "2025-08-25",
+    "time": "10:45",
+    "durationMinutes": 60
+  },
+  {
+    "id": 108,
+    "title": "User Study",
+    "date": "2025-08-19",
+    "time": "14:15",
+    "durationMinutes": 45
+  },
+  {
+    "id": 109,
+    "title": "Demo Day",
+    "date": "2025-08-24",
+    "time": "10:30",
+    "durationMinutes": 60
+  },
+  {
+    "id": 110,
+    "title": "Partner Call",
+    "date": "2025-09-13",
+    "time": "09:00",
+    "durationMinutes": 30
+  },
+  {
+    "id": 111,
+    "title": "Team Retrospective",
+    "date": "2025-09-13",
+    "time": "09:15",
+    "durationMinutes": 30
+  },
+  {
+    "id": 112,
+    "title": "Workshop",
+    "date": "2025-09-09",
+    "time": "09:45",
+    "durationMinutes": 90
+  },
+  {
+    "id": 113,
+    "title": "Hiring Discussion",
+    "date": "2025-09-25",
+    "time": "10:00",
+    "durationMinutes": 90
+  },
+  {
+    "id": 114,
+    "title": "Training Workshop",
+    "date": "2025-09-05",
+    "time": "15:15",
+    "durationMinutes": 45
+  },
+  {
+    "id": 115,
+    "title": "Product Roadmap",
+    "date": "2025-09-01",
+    "time": "11:00",
+    "durationMinutes": 30
+  },
+  {
+    "id": 116,
+    "title": "Team Retrospective",
+    "date": "2025-09-02",
+    "time": "09:00",
+    "durationMinutes": 45
+  },
+  {
+    "id": 117,
+    "title": "Sprint Planning",
+    "date": "2025-09-24",
+    "time": "16:15",
+    "durationMinutes": 30
+  },
+  {
+    "id": 118,
+    "title": "One-on-One",
+    "date": "2025-10-21",
+    "time": "14:00",
+    "durationMinutes": 60
+  },
+  {
+    "id": 119,
+    "title": "Marketing Update",
+    "date": "2025-10-21",
+    "time": "14:15",
+    "durationMinutes": 60
+  },
+  {
+    "id": 120,
+    "title": "Team Celebration",
+    "date": "2025-10-01",
+    "time": "14:45",
+    "durationMinutes": 45
+  },
+  {
+    "id": 121,
+    "title": "Design Sprint",
+    "date": "2025-10-07",
+    "time": "16:45",
+    "durationMinutes": 30
+  },
+  {
+    "id": 122,
+    "title": "Training Workshop",
+    "date": "2025-10-06",
+    "time": "13:00",
+    "durationMinutes": 45
+  },
+  {
+    "id": 123,
+    "title": "Project Update",
+    "date": "2025-10-11",
+    "time": "10:00",
+    "durationMinutes": 60
+  },
+  {
+    "id": 124,
+    "title": "Bug Bash",
+    "date": "2025-10-13",
+    "time": "10:15",
+    "durationMinutes": 60
+  },
+  {
+    "id": 125,
+    "title": "Release Planning",
+    "date": "2025-10-20",
+    "time": "13:30",
+    "durationMinutes": 45
+  },
+  {
+    "id": 126,
+    "title": "Marketing Sync",
+    "date": "2025-11-08",
+    "time": "10:00",
+    "durationMinutes": 30
+  },
+  {
+    "id": 127,
+    "title": "Research Review",
+    "date": "2025-11-08",
+    "time": "10:15",
+    "durationMinutes": 30
+  },
+  {
+    "id": 128,
+    "title": "Customer Sync",
+    "date": "2025-11-09",
+    "time": "13:45",
+    "durationMinutes": 45
+  },
+  {
+    "id": 129,
+    "title": "Design Sprint",
+    "date": "2025-11-24",
+    "time": "12:15",
+    "durationMinutes": 45
+  },
+  {
+    "id": 130,
+    "title": "Sprint Planning",
+    "date": "2025-11-18",
+    "time": "12:45",
+    "durationMinutes": 45
+  },
+  {
+    "id": 131,
+    "title": "Marketing Sync",
+    "date": "2025-11-14",
+    "time": "15:45",
+    "durationMinutes": 90
+  },
+  {
+    "id": 132,
+    "title": "Testing Session",
+    "date": "2025-11-10",
+    "time": "11:15",
+    "durationMinutes": 30
+  },
+  {
+    "id": 133,
+    "title": "Kickoff Meeting",
+    "date": "2025-11-11",
+    "time": "12:00",
+    "durationMinutes": 30
+  },
+  {
+    "id": 134,
+    "title": "Budget Planning",
+    "date": "2025-12-18",
+    "time": "13:00",
+    "durationMinutes": 90
+  },
+  {
+    "id": 135,
+    "title": "Quarter Start",
+    "date": "2025-12-18",
+    "time": "13:15",
+    "durationMinutes": 90
+  },
+  {
+    "id": 136,
+    "title": "System Design",
+    "date": "2025-12-06",
+    "time": "15:30",
+    "durationMinutes": 60
+  },
+  {
+    "id": 137,
+    "title": "Project Update",
+    "date": "2025-12-07",
+    "time": "16:15",
+    "durationMinutes": 30
+  },
+  {
+    "id": 138,
+    "title": "Research Review",
+    "date": "2025-12-14",
+    "time": "14:45",
+    "durationMinutes": 45
+  },
+  {
+    "id": 139,
+    "title": "Customer Sync",
+    "date": "2025-12-22",
+    "time": "16:00",
+    "durationMinutes": 90
+  },
+  {
+    "id": 140,
+    "title": "Client Call",
+    "date": "2025-12-11",
+    "time": "14:15",
+    "durationMinutes": 45
+  },
+  {
+    "id": 141,
+    "title": "Performance Review",
+    "date": "2025-12-03",
+    "time": "09:15",
+    "durationMinutes": 60
+  },
+  {
+    "id": 142,
+    "title": "Customer Sync",
+    "date": "2026-01-18",
+    "time": "14:00",
+    "durationMinutes": 60
+  },
+  {
+    "id": 143,
+    "title": "UI Brainstorm",
+    "date": "2026-01-18",
+    "time": "14:15",
+    "durationMinutes": 60
+  },
+  {
+    "id": 144,
+    "title": "Quarter Start",
+    "date": "2026-01-15",
+    "time": "13:15",
+    "durationMinutes": 60
+  },
+  {
+    "id": 145,
+    "title": "Growth Sync",
+    "date": "2026-01-22",
+    "time": "10:30",
+    "durationMinutes": 45
+  },
+  {
+    "id": 146,
+    "title": "System Design",
+    "date": "2026-01-11",
+    "time": "10:00",
+    "durationMinutes": 30
+  },
+  {
+    "id": 147,
+    "title": "Partner Call",
+    "date": "2026-01-04",
+    "time": "16:30",
+    "durationMinutes": 45
+  },
+  {
+    "id": 148,
+    "title": "User Study",
+    "date": "2026-02-09",
+    "time": "14:00",
+    "durationMinutes": 60
+  },
+  {
+    "id": 149,
+    "title": "Internal Training",
+    "date": "2026-02-09",
+    "time": "14:15",
+    "durationMinutes": 60
+  },
+  {
+    "id": 150,
+    "title": "Client Presentation",
+    "date": "2026-02-01",
+    "time": "11:30",
+    "durationMinutes": 60
+  },
+  {
+    "id": 151,
+    "title": "Feature Launch",
+    "date": "2026-02-24",
+    "time": "12:15",
+    "durationMinutes": 90
+  },
+  {
+    "id": 152,
+    "title": "Team Retrospective",
+    "date": "2026-02-16",
+    "time": "10:45",
+    "durationMinutes": 45
+  },
+  {
+    "id": 153,
+    "title": "UX Review",
+    "date": "2026-02-03",
+    "time": "11:00",
+    "durationMinutes": 60
+  },
+  {
+    "id": 154,
+    "title": "Training Workshop",
+    "date": "2026-03-08",
+    "time": "14:00",
+    "durationMinutes": 30
+  },
+  {
+    "id": 155,
+    "title": "Feature Launch",
+    "date": "2026-03-08",
+    "time": "14:15",
+    "durationMinutes": 30
+  },
+  {
+    "id": 156,
+    "title": "Feature Launch",
+    "date": "2026-03-03",
+    "time": "11:30",
+    "durationMinutes": 90
+  },
+  {
+    "id": 157,
+    "title": "Innovation Meetup",
+    "date": "2026-03-19",
+    "time": "11:00",
+    "durationMinutes": 45
+  },
+  {
+    "id": 158,
+    "title": "Marketing Sync",
+    "date": "2026-03-17",
+    "time": "16:15",
+    "durationMinutes": 90
+  },
+  {
+    "id": 159,
+    "title": "Team Lunch",
+    "date": "2026-03-02",
+    "time": "09:15",
+    "durationMinutes": 60
+  },
+  {
+    "id": 160,
+    "title": "Demo Day",
+    "date": "2026-03-09",
+    "time": "12:15",
+    "durationMinutes": 60
+  },
+  {
+    "id": 161,
+    "title": "Customer Sync",
+    "date": "2026-03-13",
+    "time": "15:30",
+    "durationMinutes": 60
+  },
+  {
+    "id": 162,
+    "title": "Hackathon",
+    "date": "2026-04-16",
+    "time": "10:00",
+    "durationMinutes": 45
+  },
+  {
+    "id": 163,
+    "title": "Release Planning",
+    "date": "2026-04-16",
+    "time": "10:15",
+    "durationMinutes": 45
+  },
+  {
+    "id": 164,
+    "title": "Client Presentation",
+    "date": "2026-04-07",
+    "time": "16:00",
+    "durationMinutes": 60
+  },
+  {
+    "id": 165,
+    "title": "Internal Training",
+    "date": "2026-04-10",
+    "time": "14:15",
+    "durationMinutes": 45
+  },
+  {
+    "id": 166,
+    "title": "User Study",
+    "date": "2026-04-08",
+    "time": "15:30",
+    "durationMinutes": 60
+  },
+  {
+    "id": 167,
+    "title": "Customer Sync",
+    "date": "2026-04-01",
+    "time": "09:00",
+    "durationMinutes": 60
+  },
+  {
+    "id": 168,
+    "title": "Project Update",
+    "date": "2026-05-25",
+    "time": "11:00",
+    "durationMinutes": 45
+  },
+  {
+    "id": 169,
+    "title": "Design Review",
+    "date": "2026-05-25",
+    "time": "11:15",
+    "durationMinutes": 45
+  },
+  {
+    "id": 170,
+    "title": "Product Demo",
+    "date": "2026-05-26",
+    "time": "11:45",
+    "durationMinutes": 30
+  },
+  {
+    "id": 171,
+    "title": "Release Planning",
+    "date": "2026-05-24",
+    "time": "15:00",
+    "durationMinutes": 30
+  },
+  {
+    "id": 172,
+    "title": "Quarter Start",
+    "date": "2026-05-21",
+    "time": "16:00",
+    "durationMinutes": 45
+  },
+  {
+    "id": 173,
+    "title": "Feature Launch",
+    "date": "2026-05-18",
+    "time": "11:45",
+    "durationMinutes": 45
+  },
+  {
+    "id": 174,
+    "title": "Client Call",
+    "date": "2026-05-16",
+    "time": "14:00",
+    "durationMinutes": 30
+  },
+  {
+    "id": 175,
+    "title": "Client Call",
+    "date": "2026-06-09",
+    "time": "11:00",
+    "durationMinutes": 45
+  },
+  {
+    "id": 176,
+    "title": "Retrospective",
+    "date": "2026-06-09",
+    "time": "11:15",
+    "durationMinutes": 45
+  },
+  {
+    "id": 177,
+    "title": "Research Review",
+    "date": "2026-06-07",
+    "time": "14:45",
+    "durationMinutes": 30
+  },
+  {
+    "id": 178,
+    "title": "Product Roadmap",
+    "date": "2026-06-23",
+    "time": "11:45",
+    "durationMinutes": 45
+  },
+  {
+    "id": 179,
+    "title": "Budget Planning",
+    "date": "2026-06-04",
+    "time": "12:30",
+    "durationMinutes": 60
+  },
+  {
+    "id": 180,
+    "title": "Demo Day",
+    "date": "2026-06-26",
+    "time": "09:30",
+    "durationMinutes": 90
+  },
+  {
+    "id": 181,
+    "title": "Design Review",
+    "date": "2026-07-17",
+    "time": "13:00",
+    "durationMinutes": 90
+  },
+  {
+    "id": 182,
+    "title": "Client Call",
+    "date": "2026-07-17",
+    "time": "13:15",
+    "durationMinutes": 90
+  },
+  {
+    "id": 183,
+    "title": "Planning Sprint",
+    "date": "2026-07-05",
+    "time": "14:45",
+    "durationMinutes": 60
+  },
+  {
+    "id": 184,
+    "title": "Project Update",
+    "date": "2026-07-22",
+    "time": "10:00",
+    "durationMinutes": 30
+  },
+  {
+    "id": 185,
+    "title": "Marketing Update",
+    "date": "2026-07-24",
+    "time": "10:45",
+    "durationMinutes": 90
+  },
+  {
+    "id": 186,
+    "title": "Retrospective",
+    "date": "2026-07-09",
+    "time": "16:00",
+    "durationMinutes": 45
+  },
+  {
+    "id": 187,
+    "title": "Training Workshop",
+    "date": "2026-08-20",
+    "time": "10:00",
+    "durationMinutes": 90
+  },
+  {
+    "id": 188,
+    "title": "Customer Review",
+    "date": "2026-08-20",
+    "time": "10:15",
+    "durationMinutes": 90
+  },
+  {
+    "id": 189,
+    "title": "Strategy Session",
+    "date": "2026-08-16",
+    "time": "16:15",
+    "durationMinutes": 60
+  },
+  {
+    "id": 190,
+    "title": "All Hands Meeting",
+    "date": "2026-08-18",
+    "time": "13:30",
+    "durationMinutes": 60
+  },
+  {
+    "id": 191,
+    "title": "Research Review",
+    "date": "2026-08-12",
+    "time": "11:45",
+    "durationMinutes": 30
+  },
+  {
+    "id": 192,
+    "title": "Growth Sync",
+    "date": "2026-08-11",
+    "time": "16:45",
+    "durationMinutes": 45
+  },
+  {
+    "id": 193,
+    "title": "Bug Bash",
+    "date": "2026-08-17",
+    "time": "16:00",
+    "durationMinutes": 45
+  },
+  {
+    "id": 194,
+    "title": "Customer Sync",
+    "date": "2026-08-19",
+    "time": "13:00",
+    "durationMinutes": 90
+  },
+  {
+    "id": 195,
+    "title": "Growth Sync",
+    "date": "2026-09-24",
+    "time": "13:00",
+    "durationMinutes": 60
+  },
+  {
+    "id": 196,
+    "title": "Workshop",
+    "date": "2026-09-24",
+    "time": "13:15",
+    "durationMinutes": 60
+  },
+  {
+    "id": 197,
+    "title": "UI Brainstorm",
+    "date": "2026-09-21",
+    "time": "16:15",
+    "durationMinutes": 30
+  },
+  {
+    "id": 198,
+    "title": "Team Outing",
+    "date": "2026-09-07",
+    "time": "15:15",
+    "durationMinutes": 30
+  },
+  {
+    "id": 199,
+    "title": "All Hands Meeting",
+    "date": "2026-09-02",
+    "time": "10:45",
+    "durationMinutes": 45
+  },
+  {
+    "id": 200,
+    "title": "Testing Session",
+    "date": "2026-09-09",
+    "time": "15:30",
+    "durationMinutes": 90
+  },
+  {
+    "id": 201,
+    "title": "Townhall",
+    "date": "2026-10-20",
+    "time": "10:00",
+    "durationMinutes": 30
+  },
+  {
+    "id": 202,
+    "title": "Planning Sprint",
+    "date": "2026-10-20",
+    "time": "10:15",
+    "durationMinutes": 30
+  },
+  {
+    "id": 203,
+    "title": "Kickoff Meeting",
+    "date": "2026-10-01",
+    "time": "12:15",
+    "durationMinutes": 60
+  },
+  {
+    "id": 204,
+    "title": "Customer Sync",
+    "date": "2026-10-23",
+    "time": "11:15",
+    "durationMinutes": 60
+  },
+  {
+    "id": 205,
+    "title": "Sales Pitch",
+    "date": "2026-10-27",
+    "time": "14:00",
+    "durationMinutes": 60
+  },
+  {
+    "id": 206,
+    "title": "Strategy Session",
+    "date": "2026-10-15",
+    "time": "09:45",
+    "durationMinutes": 30
+  },
+  {
+    "id": 207,
+    "title": "Product Demo",
+    "date": "2026-10-21",
+    "time": "12:30",
+    "durationMinutes": 30
+  },
+  {
+    "id": 208,
+    "title": "System Design",
+    "date": "2026-10-12",
+    "time": "10:45",
+    "durationMinutes": 90
+  },
+  {
+    "id": 209,
+    "title": "Team Retrospective",
+    "date": "2026-11-04",
+    "time": "13:00",
+    "durationMinutes": 30
+  },
+  {
+    "id": 210,
+    "title": "Client Presentation",
+    "date": "2026-11-04",
+    "time": "13:15",
+    "durationMinutes": 30
+  },
+  {
+    "id": 211,
+    "title": "One-on-One",
+    "date": "2026-11-26",
+    "time": "15:30",
+    "durationMinutes": 30
+  },
+  {
+    "id": 212,
+    "title": "All Hands Meeting",
+    "date": "2026-11-09",
+    "time": "14:00",
+    "durationMinutes": 30
+  },
+  {
+    "id": 213,
+    "title": "Team Outing",
+    "date": "2026-11-18",
+    "time": "15:45",
+    "durationMinutes": 90
+  },
+  {
+    "id": 214,
+    "title": "Demo Day",
+    "date": "2026-11-02",
+    "time": "13:15",
+    "durationMinutes": 90
+  },
+  {
+    "id": 215,
+    "title": "Innovation Meetup",
+    "date": "2026-11-23",
+    "time": "10:15",
+    "durationMinutes": 90
+  },
+  {
+    "id": 216,
+    "title": "Client Presentation",
+    "date": "2026-12-22",
+    "time": "10:00",
+    "durationMinutes": 90
+  },
+  {
+    "id": 217,
+    "title": "Research Review",
+    "date": "2026-12-22",
+    "time": "10:15",
+    "durationMinutes": 90
+  },
+  {
+    "id": 218,
+    "title": "Growth Sync",
+    "date": "2026-12-17",
+    "time": "16:00",
+    "durationMinutes": 90
+  },
+  {
+    "id": 219,
+    "title": "Team Retrospective",
+    "date": "2026-12-02",
+    "time": "14:15",
+    "durationMinutes": 45
+  },
+  {
+    "id": 220,
+    "title": "Research Review",
+    "date": "2026-12-07",
+    "time": "12:00",
+    "durationMinutes": 60
+  },
+  {
+    "id": 221,
+    "title": "Sales Pitch",
+    "date": "2026-12-25",
+    "time": "10:30",
+    "durationMinutes": 30
+  },
+  {
+    "id": 222,
+    "title": "Strategy Session",
+    "date": "2027-01-13",
+    "time": "13:00",
+    "durationMinutes": 30
+  },
+  {
+    "id": 223,
+    "title": "Training Workshop",
+    "date": "2027-01-13",
+    "time": "13:15",
+    "durationMinutes": 30
+  },
+  {
+    "id": 224,
+    "title": "Product Roadmap",
+    "date": "2027-01-26",
+    "time": "16:30",
+    "durationMinutes": 90
+  },
+  {
+    "id": 225,
+    "title": "Sprint Planning",
+    "date": "2027-01-12",
+    "time": "10:00",
+    "durationMinutes": 60
+  },
+  {
+    "id": 226,
+    "title": "Client Presentation",
+    "date": "2027-01-27",
+    "time": "14:15",
+    "durationMinutes": 60
+  },
+  {
+    "id": 227,
+    "title": "One-on-One",
+    "date": "2027-01-06",
+    "time": "10:45",
+    "durationMinutes": 45
+  },
+  {
+    "id": 228,
+    "title": "Hackathon",
+    "date": "2027-01-08",
+    "time": "16:30",
+    "durationMinutes": 30
+  },
+  {
+    "id": 229,
+    "title": "Product Roadmap",
+    "date": "2027-02-25",
+    "time": "10:00",
+    "durationMinutes": 30
+  },
+  {
+    "id": 230,
+    "title": "Product Demo",
+    "date": "2027-02-25",
+    "time": "10:15",
+    "durationMinutes": 30
+  },
+  {
+    "id": 231,
+    "title": "User Study",
+    "date": "2027-02-24",
+    "time": "14:15",
+    "durationMinutes": 60
+  },
+  {
+    "id": 232,
+    "title": "Kickoff Meeting",
+    "date": "2027-02-26",
+    "time": "14:30",
+    "durationMinutes": 60
+  },
+  {
+    "id": 233,
+    "title": "Kickoff Meeting",
+    "date": "2027-02-17",
+    "time": "09:15",
+    "durationMinutes": 60
+  },
+  {
+    "id": 234,
+    "title": "Marketing Update",
+    "date": "2027-02-11",
+    "time": "10:00",
+    "durationMinutes": 30
+  },
+  {
+    "id": 235,
+    "title": "User Study",
+    "date": "2027-02-27",
+    "time": "11:00",
+    "durationMinutes": 60
+  },
+  {
+    "id": 236,
+    "title": "Sales Pitch",
+    "date": "2027-03-06",
+    "time": "12:00",
+    "durationMinutes": 45
+  },
+  {
+    "id": 237,
+    "title": "Customer Sync",
+    "date": "2027-03-06",
+    "time": "12:15",
+    "durationMinutes": 45
+  },
+  {
+    "id": 238,
+    "title": "Sprint Planning",
+    "date": "2027-03-07",
+    "time": "09:00",
+    "durationMinutes": 90
+  },
+  {
+    "id": 239,
+    "title": "Design Sprint",
+    "date": "2027-03-12",
+    "time": "12:15",
+    "durationMinutes": 45
+  },
+  {
+    "id": 240,
+    "title": "Client Call",
+    "date": "2027-03-09",
+    "time": "10:45",
+    "durationMinutes": 60
+  },
+  {
+    "id": 241,
+    "title": "User Study",
+    "date": "2027-03-22",
+    "time": "09:30",
+    "durationMinutes": 60
+  },
+  {
+    "id": 242,
+    "title": "Design Review",
+    "date": "2027-04-09",
+    "time": "12:00",
+    "durationMinutes": 60
+  },
+  {
+    "id": 243,
+    "title": "Release Wrap-Up",
+    "date": "2027-04-09",
+    "time": "12:15",
+    "durationMinutes": 60
+  },
+  {
+    "id": 244,
+    "title": "Research Review",
+    "date": "2027-04-03",
+    "time": "12:15",
+    "durationMinutes": 30
+  },
+  {
+    "id": 245,
+    "title": "Team Retrospective",
+    "date": "2027-04-21",
+    "time": "16:00",
+    "durationMinutes": 60
+  },
+  {
+    "id": 246,
+    "title": "Research Review",
+    "date": "2027-04-08",
+    "time": "11:15",
+    "durationMinutes": 60
+  },
+  {
+    "id": 247,
+    "title": "Bug Bash",
+    "date": "2027-04-26",
+    "time": "14:30",
+    "durationMinutes": 45
+  },
+  {
+    "id": 248,
+    "title": "Team Celebration",
+    "date": "2027-05-07",
+    "time": "11:00",
+    "durationMinutes": 60
+  },
+  {
+    "id": 249,
+    "title": "Marketing Sync",
+    "date": "2027-05-07",
+    "time": "11:15",
+    "durationMinutes": 60
+  },
+  {
+    "id": 250,
+    "title": "Project Update",
+    "date": "2027-05-27",
+    "time": "10:30",
+    "durationMinutes": 30
+  },
+  {
+    "id": 251,
+    "title": "Project Update",
+    "date": "2027-05-13",
+    "time": "14:00",
+    "durationMinutes": 60
+  },
+  {
+    "id": 252,
+    "title": "Budget Planning",
+    "date": "2027-05-22",
+    "time": "09:00",
+    "durationMinutes": 45
+  },
+  {
+    "id": 253,
+    "title": "Growth Sync",
+    "date": "2027-05-15",
+    "time": "14:30",
+    "durationMinutes": 45
+  }
+]
