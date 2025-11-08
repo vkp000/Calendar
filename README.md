@@ -136,9 +136,8 @@ This project is licensed under the **MIT License** — see the [LICENSE](./LICEN
 
 ## 💬 Connect
 
-👤 **Vivek Prajapat**  
-📸 [Instagram](https://instagram.com/vkp000)  
-💼 [LinkedIn](https://www.linkedin.com/in/vkp000)  
+👤 **Vivek Prajapat** 
+💼 [LinkedIn](https://www.linkedin.com/in/vkp00)  
 🌐 [Portfolio Website](#)
 
 ---
